@@ -1,7 +1,8 @@
 ----------
-This is a react redux movie listing example, use it however you wish ....
+This is a cakes react  redux listing example....
 
 npm run start 
 
+<image src=image.png />
 ----------
 
